@@ -38,23 +38,25 @@ As it makes sense to you please write the following in JSON format:
 -   Has lived in two places recently: 123 Fake street, and 2 Muchinfo Road
 
 ```json
-<!-- your answer here -->
-```
+{"text": {"data": "Jason has many things..."}}
+{"text": {"data": "A Cat named Mr.Kitty"}}
+{"text": {"data": "Two roomates named Dave and Miller"}}
+{"text": {"data": "A Love of the Red Sox, Patriots and Bruins"}}
+{"text": {"data": "Has lived in two places recently: 123 Fake street, and 2 Muchinfo Road"}}```
 
 I forgot, my roomate Dave has two goldfish, one named Bob (he's red) and the
 other named Mr.MagicNibbles (yellow) and bites a bit. Please copy the JSON you
 already wrote and include the information about Dave's fish.
 
 ```json
-<!-- your answer here -->
-```
+Yeah to be real I don't understand at all... i looked for a 'text to json converter' online to be able to understand and didn't find anything. I'm sure the stuff above is wrong too.```
 
 ## JSON Methods
 
 Using the JSON your wrote above, can you write a method on the JSON?
 
 ```json
-<!-- your answer here -->
+'JSON cannot have methods, since it is a data exchange format.'
 ```
 
 ## JSON Comments
@@ -62,5 +64,4 @@ Using the JSON your wrote above, can you write a method on the JSON?
 Using the JSON your wrote above, can you write a comment in the JSON?
 
 ```json
-<!-- your answer here -->
-```
+'JSON cannot have comments, since it is just a string.'```
